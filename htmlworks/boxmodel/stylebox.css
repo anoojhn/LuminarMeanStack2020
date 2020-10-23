@@ -1,0 +1,23 @@
+    #bottom {
+        color: red;
+        border-style: dotted;
+        border-color: indigo;
+        width: 50%;
+        margin-top: 20%;
+        margin-left: 35%;
+        padding-left: 100px;
+    }
+    
+    #top {
+        color: violet;
+        border-style: dotted;
+        border-color: green;
+        margin-left: 35%;
+        width: 50%;
+        padding-left: 100px;
+        margin-top: 10%;
+    }
+    
+    h1 {
+        font-family: 'Ranchers', cursive;
+    }
